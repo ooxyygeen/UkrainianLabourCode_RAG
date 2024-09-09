@@ -11,3 +11,5 @@ Implemented with:
 2. LangChain to create vector space from neo4j instance
 3. Mistral and OpenAI's models to answer user's question
 4. mlfwol lib to compare LLMs perfomance in answering
+
+![example](https://github.com/user-attachments/assets/9ff53900-08c4-4c01-88a1-b8c3f03e0046)
